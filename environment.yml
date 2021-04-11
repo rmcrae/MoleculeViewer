@@ -1,0 +1,7 @@
+name: py4chemoinfo
+channels:
+	- conda-forge
+dependencies:
+	- IPython
+	- rdkit
+	- py3Dmol
