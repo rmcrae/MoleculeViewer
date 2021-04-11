@@ -1,0 +1,10 @@
+HEADER
+COMPND    COH2 
+ATOM      1  C   UNK     1     0.000   0.000   0.000                          
+ATOM      2  O   UNK     1    -1.210   0.000   0.000
+ATOM      3  H   UNK     1     0.589   0.952   0.000                          
+ATOM      4  H   UNK     1     0.589  -0.952   0.000                          
+CONECT    1    2    3    4
+CONECT    1    2
+MASTER        0    0    0    0    0    0    0    0    3    0    0    0
+END

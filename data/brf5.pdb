@@ -1,0 +1,11 @@
+HEADER
+COMPND    BrF5
+HETATM    1 BR   UNK     1       0.000   0.000   0.000                          
+HETATM    2  F   UNK     1       1.776   0.000   0.160
+HETATM    3  F   UNK     1       0,000   1.776   0.160                          
+HETATM    4  F   UNK     1      -1.776   0.000   0.160                          
+HETATM    5  F   UNK     1       0.000  -1.776   0.160
+HETATM    6  F   UNK     1       0.000   0.000   1.689
+CONECT    1    2    3    4    5    6
+MASTER        0    0    0    0    0    0    0    0    3    0    0    0
+END

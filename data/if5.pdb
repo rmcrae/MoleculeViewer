@@ -1,0 +1,13 @@
+HETATM    1  I           1      -0.249   0.118  -0.072
+HETATM    2  F           2       1.699   0.313  -0.083
+HETATM    3  F           3      -0.259   0.294   1.876
+HETATM    4  F           4      -0.045  -1.820   0.108
+HETATM    5  F           5      -2.196  -0.079  -0.062
+HETATM    6  F           6      -0.244  -0.057  -2.022
+CONECT    1    2    3    4    5    6
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    1
+END

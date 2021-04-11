@@ -1,0 +1,7 @@
+HETATM    1  XE      1           0.000   0.000   0.000                          
+HETATM    2  F       2           2.000   0.000   0.000                          
+HETATM    3  F       3          -2.000   0.000   0.000                          
+CONECT    1    2    3
+CONECT    3    1
+CONECT    2    1
+END
